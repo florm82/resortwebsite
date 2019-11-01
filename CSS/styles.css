@@ -21,3 +21,7 @@ body{
     padding-right: 20px;
     text-align: justify;
 }
+
+.contact-page {
+  background-color: cyan;
+}
