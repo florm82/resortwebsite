@@ -2,6 +2,7 @@ h1{
   color: blue;
   font-family: cursive;
   font-style: oblique;
+  text-align: center;
 }
 img{
   image-resolution: from-image;
