@@ -5,6 +5,7 @@ h1{
 }
 img{
   image-resolution: from-image;
+  margin: 30px;
 }
 p{
   color: crimson;
