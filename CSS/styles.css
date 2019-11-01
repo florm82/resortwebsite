@@ -14,3 +14,9 @@ p{
 body{
   background-color: salmon;
 }
+
+.content {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+}
