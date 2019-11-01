@@ -6,8 +6,9 @@ h1{
 img{
   image-resolution: from-image;
 }
-html{
-  color: purple;
+p{
+  color: crimson;
+  font-weight: bold;
 }
 body{
   background-color: salmon;
