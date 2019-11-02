@@ -13,3 +13,14 @@ p{
 body{
   background-color: salmon;
 }
+.important{
+  text-align: center;
+  font-weight: bold;
+  font-family: cursive;
+  color: purple;
+  list-style-position: inside;
+}
+.highlight{
+  font-weight: bolder;
+  color: yellow;
+}
