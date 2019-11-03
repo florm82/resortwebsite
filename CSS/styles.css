@@ -40,4 +40,7 @@ body{
   border: 10px solid blue;
   padding: inherit;
   box-sizing: border-box;
+  margin-left: 140px;
+  margin-right: 140px;
+  background-color: orange;
 }
