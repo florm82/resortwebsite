@@ -36,3 +36,8 @@ body{
   width: 300px;
   float: left;
 }
+.my-class{
+  border: 10px solid blue;
+  padding: inherit;
+  box-sizing: border-box;
+}
