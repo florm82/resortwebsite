@@ -6,7 +6,6 @@ h1{
 img{
   image-resolution: from-image;
   float: center;
-
 }
 p{
   color: crimson;
@@ -27,9 +26,9 @@ body{
   color: yellow;
 }
 .sidebar{
-  width: 30%;
+  width: 40%;
   float:right;
-  background-color:blue;
+  background-color:purple;
   color: yellow;
 }
 .column{
