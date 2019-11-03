@@ -26,3 +26,8 @@ body{
   font-weight: bolder;
   color: yellow;
 }
+.sidebar{
+  width: 30%;
+  float:right;
+  background-color: yellow;
+}
