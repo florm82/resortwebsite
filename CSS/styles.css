@@ -43,3 +43,9 @@ body{
   margin-right: 140px;
   background-color: orange;
 }
+.hello p{
+  background-color: teal;
+}
+.bye p{
+  background-color: white;
+}
