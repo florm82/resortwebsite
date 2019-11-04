@@ -49,3 +49,6 @@ body{
 .bye p{
   background-color: white;
 }
+.bye p a{
+  font-style: italic;
+}
