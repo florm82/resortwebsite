@@ -5,6 +5,7 @@ h1{
 }
 img{
   image-resolution: from-image;
+  float: center;
 }
 p{
   color: crimson;
@@ -12,4 +13,42 @@ p{
 }
 body{
   background-color: salmon;
+}
+.important{
+  text-align: center;
+  font-weight: bold;
+  font-family: cursive;
+  color: purple;
+  list-style-position: inside;
+}
+.highlight{
+  font-weight: bolder;
+  color: yellow;
+}
+.sidebar{
+  width: 40%;
+  float:right;
+  background-color:purple;
+  color: yellow;
+}
+.column{
+  width: 300px;
+  float: left;
+}
+.my-class{
+  border: 10px solid blue;
+  padding: inherit;
+  box-sizing: border-box;
+  margin-left: 140px;
+  margin-right: 140px;
+  background-color: orange;
+}
+.hello p{
+  background-color: teal;
+}
+.bye p{
+  background-color: white;
+}
+.bye p a{
+  font-style: italic;
 }
